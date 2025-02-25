@@ -7,7 +7,7 @@ def run():
     # Load job data
     try:
         job_data = pd.read_csv("data/job_postings.csv")
-        st.write("✅ Job data loaded successfully!")
+        st.write("Job data loaded successfully! ✅")
     except FileNotFoundError:
         st.error("❌ Error: job_postings.csv not found!")
         return
@@ -20,7 +20,7 @@ def run():
 
     # Process and visualize top in-demand skills
     in_demand_skills = job_data["required_skills"].str.split(", ").explode().value_counts().head(10)
-    st.write("### 🔥 Top In-Demand Skills")
+    st.write("### Top In-Demand Skills")
     st.bar_chart(in_demand_skills)
 
 if __name__ == "__main__":
