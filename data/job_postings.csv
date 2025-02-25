@@ -1,0 +1,6 @@
+job_title,company,location,required_skills,experience_level,salary_range
+Data Scientist,Google,San Francisco,"Python, Machine Learning, SQL",Mid-Level,"$120,000-$150,000"
+Software Engineer,Microsoft,Seattle,"Java, Spring Boot, Microservices",Entry-Level,"$100,000-$130,000"
+AI Researcher,OpenAI,Remote,"Deep Learning, NLP, PyTorch",Senior,"$150,000-$180,000"
+Business Analyst,Amazon,New York,"SQL, Excel, Data Visualization",Entry-Level,"$80,000-$110,000"
+Cloud Engineer,AWS,Remote,"AWS, Kubernetes, Terraform",Mid-Level,"$110,000-$140,000"
