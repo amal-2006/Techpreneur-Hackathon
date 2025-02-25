@@ -1,6 +1,23 @@
-job_title,company,location,required_skills,experience_level,salary_range
-Data Scientist,Google,San Francisco,"Python, Machine Learning, SQL",Mid-Level,"$120,000-$150,000"
-Software Engineer,Microsoft,Seattle,"Java, Spring Boot, Microservices",Entry-Level,"$100,000-$130,000"
-AI Researcher,OpenAI,Remote,"Deep Learning, NLP, PyTorch",Senior,"$150,000-$180,000"
-Business Analyst,Amazon,New York,"SQL, Excel, Data Visualization",Entry-Level,"$80,000-$110,000"
-Cloud Engineer,AWS,Remote,"AWS, Kubernetes, Terraform",Mid-Level,"$110,000-$140,000"
+Job Title,required_skills,Experience (Years),Salary Range,Company
+Data Scientist,Python;Machine Learning;SQL;Deep Learning,2,80000-120000,Google
+Machine Learning Engineer,Python;TensorFlow;Deep Learning;Big Data,3,90000-130000,Facebook
+Software Engineer,Java;Spring Boot;Microservices;SQL,2,75000-110000,Amazon
+Cybersecurity Analyst,Networking;Ethical Hacking;Cryptography;Threat Intelligence,3,85000-125000,Cisco
+Business Analyst,Excel;SQL;Tableau;Power BI,2,70000-100000,Deloitte
+Cloud Engineer,AWS;Docker;Kubernetes;DevOps,3,95000-135000,Microsoft
+AI Researcher,Deep Learning;Reinforcement Learning;Python,4,100000-150000,OpenAI
+Blockchain Developer,Solidity;Ethereum;Smart Contracts,3,90000-130000,Binance
+Frontend Developer,React;JavaScript;CSS;HTML,2,65000-95000,Netflix
+Backend Developer,Node.js;Express;MongoDB;PostgreSQL,3,80000-115000,LinkedIn
+DevOps Engineer,AWS;CI/CD;Jenkins;Kubernetes,3,95000-140000,IBM
+Product Manager,Agile;Scrum;Business Strategy,5,100000-160000,Apple
+Data Engineer,SQL;Big Data;Hadoop;Apache Spark,3,90000-130000,Spotify
+Full Stack Developer,React;Node.js;Python;Django,3,85000-125000,Airbnb
+UI/UX Designer,Figma;Adobe XD;User Research;Prototyping,2,70000-100000,Adobe
+NLP Engineer,Python;NLP;Spacy;BERT,3,95000-140000,Google
+Game Developer,Unity;C#;Game Design,2,70000-105000,Ubisoft
+IT Support Specialist,Troubleshooting;Windows;Linux,1,50000-80000,Dell
+Marketing Analyst,Google Analytics;SEO;PPC;Market Research,2,60000-95000,HubSpot
+HR Manager,Recruitment;HR Policies;Payroll Management,4,75000-115000,IBM
+Mobile App Developer,Flutter;React Native;Android;iOS,3,85000-120000,Samsung
+Robotics Engineer,ROS;Python;Embedded Systems,3,95000-130000,Boston Dynamics
