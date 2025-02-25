@@ -1,6 +1,31 @@
-career,skills,recommended_courses
-Data Scientist,"Python, Machine Learning, SQL","Coursera: Machine Learning"
-Software Engineer,"Java, Spring Boot, Microservices","Udemy Java Masterclass"
-AI Researcher,"Deep Learning, NLP, PyTorch","Deep Learning Specialization"
-Business Analyst,"SQL, Excel, Data Visualization","Google Data Analytics"
-Cloud Engineer,"AWS, Kubernetes, Terraform","AWS Certified Solutions Architect"
+Skill,Demand Index,Industry
+Python,95,Software Development
+Machine Learning,92,AI & Data Science
+Cloud Computing,90,Cloud & DevOps
+Cybersecurity,88,Security & Networks
+SQL,85,Database & Data Science
+Deep Learning,83,AI & Research
+Java,80,Software Engineering
+JavaScript,78,Web Development
+AI,76,Artificial Intelligence
+Blockchain,75,Finance & Cryptocurrency
+Data Engineering,72,Big Data
+React.js,70,Frontend Development
+Node.js,68,Backend Development
+Kubernetes,66,Cloud & DevOps
+Flutter,65,Mobile Development
+C++,63,System Programming
+C#,62,Game Development
+Django,60,Web Development
+TensorFlow,58,AI & ML
+PostgreSQL,57,Database Management
+Power BI,56,Data Visualization
+Tableau,55,Data Analytics
+Ethical Hacking,54,Cybersecurity
+Solidity,53,Blockchain Development
+Scrum,52,Project Management
+Hadoop,51,Big Data
+Selenium,50,Automation Testing
+UI/UX Design,49,Product Development
+ROS,48,Robotics
+Embedded Systems,47,Hardware & IoT
